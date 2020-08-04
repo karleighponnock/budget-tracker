@@ -34,7 +34,15 @@ Giving users a fast and easy way to track their money is important, but allowing
    
 
 # How to Use Budget-Tracker:
-*The application will open with a heading stating your total. Below that there are fields to ut in a transaction by title and amount. Then you can add or subtract funds from the total with the adjacent buttons depending on whether is is a deposit or a withdrawl. A graph below these fields shows the 
+*The application will open with a heading stating your total.
+![Test Image 1](/public/images/start.png)
+ Below that there are fields to ut in a transaction by title and amount. 
+ ![Test Image 1](/public/images/deposit.png)
+ Then you can add or subtract funds from the total with the adjacent buttons depending on whether is is a deposit or a withdrawl.
+ ![Test Image 1](/public/images/deposit-in.png)
+ ![Test Image 1](/public/images/withdrawl.png)
+  A graph below these fields shows how your total fluctuates over time.
+![Test Image 1](/public/images/graph.png)
 
 # Access the app here: 
 * Github: https://github.com/karleighponnock/Burger-App
